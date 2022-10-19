@@ -1,6 +1,7 @@
 {
   "name": "talk",
   "private": true,
+  "homepage": "https://vineethsagar.github.io/talk",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
